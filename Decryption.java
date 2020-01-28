@@ -448,7 +448,6 @@ class Decryption {
                     System.exit(0);
                 default:
                     break;
-
             }
         }
         else throw new Menu.InvalidDecryptionException();
